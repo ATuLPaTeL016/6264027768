@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ATuL PaTeL.
+- 👋 Hi, I’m @ATuL PaTeL
 - 👀 I’m interested in App Development...
 - 🌱 I’m currently learning more about App Development.
 - 😄 Pronouns: He/His.
